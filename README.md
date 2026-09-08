@@ -61,7 +61,6 @@ Estou construindo minha base em lógica e programação enquanto me aprofundo na
 
 </div>
 
-> ⚠️ Essa animação só aparece **depois** de você configurar o GitHub Action (arquivo `snake.yml`, incluso junto com este README — veja as instruções abaixo).
 
 <br/>
 
